@@ -1,0 +1,38 @@
+#navbar {
+	background: #008000;
+	border: none;
+}
+
+span.icon-bar-color {
+	border: 2px solid #000;
+}
+
+#navbar a {
+	color: #000;
+}
+
+.active-boot-camp {
+	background: #90ee90;
+}
+
+#navbar ul li a:hover {
+	background: #90ee90;
+}
+
+.active-link-sidebar {
+	border: 1px solid #008000;
+	background-color: #90ee90;
+}
+
+.sidebar-link {
+	margin: 0;
+}
+
+a.sidebar-link:hover {
+	background-color: #90ee90;
+	border: 1px solid #008000;
+}
+
+#main-footer {
+	margin-top: 45px;
+}
